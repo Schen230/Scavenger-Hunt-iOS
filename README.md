@@ -1,4 +1,4 @@
-# Project 1 - Scavenger Hunt 
+# Scavenger Hunt 
 
 Submitted by: Sunny Chen
 
